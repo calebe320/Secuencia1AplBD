@@ -7,6 +7,6 @@
 
 2. Arrancar el servidor Apache de XAMP
 
-3. Ejecutar poniendo la ruta :"http://localhost/sqlite/php/leer-alumnos.php" en su navegador
+3. Ejecutar poniendo la ruta :"http://localhost/sqlite/index.html" en su navegador
 
 4. Probarlo usando ThunderClient de VSODE
